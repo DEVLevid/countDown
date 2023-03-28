@@ -3,7 +3,7 @@ let minBox = document.getElementById("min-box");
 let hrBox = document.getElementById("hr-box");
 let secBox = document.getElementById("sec-box");
  
-let endDate = new Date (2023,5,25,17,30);
+let endDate = new Date (2023,4,26,17,30);
 let endTime = endDate.getTime();
 
 function countdown(){
