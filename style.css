@@ -13,10 +13,9 @@ body{
 }
 
 .birthday{
-    flex-direction: column;
-    display: flex;
-    justify-content: center;
-    align-items: center;
+    text-align: center;
+    padding-top: 2rem;
+    color: #CBE4DE;
 }
 
 .countdown{
